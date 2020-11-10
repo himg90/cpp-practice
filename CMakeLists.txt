@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.17)
-project(p1)
+project(cpp-practice)
 
 set(CMAKE_CXX_STANDARD 14)
 
